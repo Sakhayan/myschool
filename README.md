@@ -1,1 +1,1 @@
-# myschool
+# school
